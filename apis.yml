@@ -1,0 +1,32 @@
+aid: makeup
+name: Makeup
+description: "Makeup Information"
+url: http://makeup-api.herokuapp.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Health"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Health
+  - Public APIs
+apis:
+  - name: Makeup
+    description: "Makeup Information"
+    humanURL: http://makeup-api.herokuapp.com/
+    baseURL: http://makeup-api.herokuapp.com/
+    tags:
+      - Health
+    properties:
+      - type: Documentation
+        url: http://makeup-api.herokuapp.com/
+common:
+  - type: Website
+    url: http://makeup-api.herokuapp.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
