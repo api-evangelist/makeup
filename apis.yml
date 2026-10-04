@@ -39,7 +39,6 @@ apis:
   - name: Makeup
     description: "Makeup Information"
     humanURL: http://makeup-api.herokuapp.com/
-    baseURL: http://makeup-api.herokuapp.com/
     tags:
       - Health
     properties:
